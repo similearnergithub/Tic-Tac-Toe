@@ -52,6 +52,14 @@ This project simulates the game of Tic-Tac-Toe where the computer plays optimall
 
 ---
 
+## 🛠️ Tech Stack
+
+- Python 🐍  
+- NumPy (state representation & computations)  
+- Matplotlib (board visualization)  
+- Math (algorithmic calculations)
+  
+
 ## 📊 Visualization
 
 - Each possible move explored by the algorithm is visualized
